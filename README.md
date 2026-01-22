@@ -23,7 +23,7 @@ If your project includes multiple files (like `HandTrackingModule.py`), ensure t
 3. Run the main file:
 
    ```bash
-   python main.py
+   python VirtualPaint.py
    ```
 4. A webcam window will open.
 5. Use your **index finger** to draw in the air.
@@ -48,7 +48,7 @@ If your project includes multiple files (like `HandTrackingModule.py`), ensure t
 
 ```
 air-writing/
-├── main.py                 # Main drawing script
+├── VirtualPaint.py         # Main drawing script
 ├── HandTrackingModule.py   # Custom module for hand tracking
 ├── Header/                 # Folder with header images
 └── README.md               # (this file)
